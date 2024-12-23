@@ -33,3 +33,5 @@ int main() {
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [X] Introduce myself to the world
+
+And I didn't need to merge!
