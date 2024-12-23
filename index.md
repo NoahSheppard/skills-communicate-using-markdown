@@ -3,7 +3,7 @@
 
 <h2>This is an image</h2>
 
-![Image was too big]()
+![Image](https://noahsh.me/root/static/media/images/mario.png)
 
 <h2>The below is C code for a Hello World program</h2>
 
@@ -26,3 +26,4 @@ int main() {
   return 0;
 }
 ```
+
