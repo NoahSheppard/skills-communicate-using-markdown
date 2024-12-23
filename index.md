@@ -27,3 +27,9 @@ int main() {
 }
 ```
 
+<h2>This is a list:</h2>
+<h3>Todo:</h3>
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [X] Introduce myself to the world
