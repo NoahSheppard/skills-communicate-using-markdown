@@ -34,4 +34,4 @@ int main() {
 - [ ] Outline my portfolio
 - [X] Introduce myself to the world
 
-And I didn't need to merge!
+Merging was pointless!
